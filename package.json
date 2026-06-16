@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-telegram-bot-api": "^1.1.0"
+    "node-telegram-bot-api": "^0.64.0"
   }
 }
